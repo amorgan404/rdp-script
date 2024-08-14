@@ -34,11 +34,11 @@ Example:
 ./rdp_script.sh
 ```
 
-<p>**Some required arguments are missing. Prompting for input...**</p>
-<p>**Enter the IP Address:** 192.168.0.10</p>
-<p>**Enter the Username:** Administrator</p>
-<p>**Enter the Domain:** domain</p>
-<p>**Enter the Password:**</p>
+<p>Some required arguments are missing. Prompting for input...</p>
+<p>Enter the IP Address: 192.168.0.10</p>
+<p>Enter the Username: Administrator</p>
+<p>Enter the Domain: domain</p>
+<p>Enter the Password:**</p>
 
 ## Dependencies
 
